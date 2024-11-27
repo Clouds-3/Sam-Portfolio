@@ -1,4 +1,4 @@
-# Interactive-Portfolio
+# Sam-Portfolio
 
 
 ## A Resposive and attractive portfolio for Developers 🔥
